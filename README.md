@@ -1,7 +1,7 @@
-# Indian Sign Language Translator (ISL Connect)
+# Real-Time Sign Language Translator 
 
 ## Overview
-Indian Sign Language (ISL) Translator, also known as **ISL Connect**, is a machine learning-powered tool designed to translate Indian Sign Language gestures into text and speech. This project aims to bridge the communication gap between the deaf and hearing communities in India by providing an interactive and accessible solution.
+Real-Time Sign Language Translator, is a machine learning-powered tool designed to translate Sign Language gestures into text and speech. This project aims to bridge the communication gap between the deaf and hearing communities by providing an interactive and accessible solution.
 
 ## Features
 - Real-time Gesture Recognition: Uses computer vision and deep learning to detect and interpret sign language gestures.
